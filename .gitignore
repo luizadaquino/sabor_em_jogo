@@ -1,6 +1,12 @@
 # Compiled Lua sources
 luac.out
 
+# Folders
+
+Images.xcassets/
+AndroidResources/
+LaunchScreen.storyboardc/
+
 # luarocks build files
 *.src.rock
 *.zip
